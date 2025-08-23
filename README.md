@@ -16,12 +16,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takshilpatel26&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=takshilpatel26&theme=tokyonight&border_radius=6)
 
-### 🚀 Featured Projects
-- [🔐 Cloud-Based File Encryption & Storage](https://github.com/takshilpatel26/cloud-encryption)  
-- [🌡️ IoT Smart Home Automation](https://github.com/takshilpatel26/smart-home)
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=takshilpatel26&style=flat-square)  
-![Snake animation](https://github.com/takshilpatel26/takshilpatel26/blob/output/github-contribution-grid-snake.svg)
+
 
