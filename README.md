@@ -14,7 +14,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takshilpatel26&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=takshilpatel26&theme=tokyonight&border_radius=6)
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+> “Code is like humor. When you have to explain it, it’s bad.”
+>   
 
 ![Profile Views](https://komarev.com/ghpvc/?username=takshilpatel26&style=flat-square)  
 
